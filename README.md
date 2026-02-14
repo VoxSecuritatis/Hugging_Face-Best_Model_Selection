@@ -5,7 +5,7 @@ Published:  2026-02-14
 
 ---
 
-For selection checklist template:  
+For selection checklist template:  https://github.com/VoxSecuritatis/Hugging_Face-Best_Model_Selection/blob/main/model_selection_template.md
 
 ---
 
