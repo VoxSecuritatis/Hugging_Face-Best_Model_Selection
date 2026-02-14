@@ -5,6 +5,10 @@ Published:  2026-02-14
 
 ---
 
+For selection checklist template:  
+
+---
+
 ## Scope
 This guide covers best-practice model selection for:
 
@@ -21,7 +25,7 @@ Primary deployment targets:
 
 # Model Selection Framework
 
-## Step 0 — Define Your Selection Brief (Non-Negotiable)
+## Step 0 - Define Your Selection Brief (Non-Negotiable)
 Before browsing models, define:
 
 - **Use case**
@@ -35,7 +39,7 @@ This becomes your acceptance criteria.
 
 ---
 
-## Step 1 — Discover Using the Model Hub Funnel
+## Step 1 - Discover Using the Model Hub Funnel
 
 https://huggingface.co/models
 
@@ -49,11 +53,11 @@ https://huggingface.co/models
    - License
 3. Sort by downloads / trending to surface stable baselines
 
-Popularity is a discovery signal — not a decision rule.
+Popularity is a discovery signal - not a decision rule.
 
 ---
 
-## Step 2 — Model Card Evaluation Checklist
+## Step 2 - Model Card Evaluation Checklist
 
 Read every model card using this checklist:
 
@@ -69,7 +73,7 @@ Strong documentation = lower implementation risk.
 
 ---
 
-## Step 3 — Shortlist 3–7 Candidates
+## Step 3 - Shortlist 3–7 Candidates
 
 ### Universal Signals
 - Recently maintained
@@ -90,7 +94,7 @@ Shortlist structure recommendation:
 
 ---
 
-## Step 4 — Hard Fit Checks (Before Running Anything)
+## Step 4 - Hard Fit Checks (Before Running Anything)
 
 ### Context Window (LLMs)
 - Confirm via repo config (e.g., `max_position_embeddings`)
@@ -117,7 +121,7 @@ Always verify license compatibility.
 
 ---
 
-## Step 5 — Prototype Fast → Evaluate on Your Data
+## Step 5 - Prototype Fast → Evaluate on Your Data
 
 1. Use the “Use this model” snippet
 2. Run smoke test
@@ -200,10 +204,10 @@ Balance:
 
 # Core Engineering Principles
 
-- Start with the task — not the model name
+- Start with the task - not the model name
 - Use filters aggressively
 - Read model cards completely
-- Popularity helps shortlist — not decide
+- Popularity helps shortlist - not decide
 - Verify context & memory constraints
 - Prototype quickly
 - Compare empirically
@@ -213,21 +217,8 @@ Balance:
 
 # Primary Learning References
 
-- YouTube - iNeuronix AI — "How to Select & Load the Best Hugging Face Model" (2025)
-- YouTube - BTECH Spark — "LLM Model Selection Guide" (2024)
-
----
-
-# Recommended README Add-On
-
-Consider adding a `/model-selection-checklist.md` file containing:
-
-- Selection Brief Template
-- Shortlist Comparison Table
-- Evaluation Results Table
-- Final Decision Rationale
-
-This turns model selection into a documented engineering decision — not intuition.
+- YouTube - iNeuronix AI - "How to Select & Load the Best Hugging Face Model" (2025)
+- YouTube - BTECH Spark - "LLM Model Selection Guide" (2024)
 
 ---
 
