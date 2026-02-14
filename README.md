@@ -213,8 +213,8 @@ Balance:
 
 # Primary Learning References
 
-- iNeuronix AI — "How to Select & Load the Best Hugging Face Model" (2025)
-- BTECH Spark — "LLM Model Selection Guide" (2024)
+- YouTube - iNeuronix AI — "How to Select & Load the Best Hugging Face Model" (2025)
+- YouTube - BTECH Spark — "LLM Model Selection Guide" (2024)
 
 ---
 
