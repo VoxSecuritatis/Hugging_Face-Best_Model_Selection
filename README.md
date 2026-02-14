@@ -5,9 +5,7 @@ Published:  2026-02-14
 
 ---
 
-For selection checklist template:  https://github.com/VoxSecuritatis/Hugging_Face-Best_Model_Selection/blob/main/model_selection_template.md
-
-[Model Selection Checklist & Evaluation Template]([https://github.com/VoxSecuritatis/Blog-AI-LLM-ChatGPT-5-Emojis-Icons](https://github.com/VoxSecuritatis/Hugging_Face-Best_Model_Selection/blob/main/model_selection_template.md)) 
+For selection checklist template:  [Model Selection Checklist & Evaluation Template]([https://github.com/VoxSecuritatis/Blog-AI-LLM-ChatGPT-5-Emojis-Icons](https://github.com/VoxSecuritatis/Hugging_Face-Best_Model_Selection/blob/main/model_selection_template.md)) 
 
 ---
 
