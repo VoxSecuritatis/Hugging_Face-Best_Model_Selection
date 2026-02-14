@@ -128,4 +128,4 @@ This checklist ensures model selection decisions are documented, reproducible, a
 
 ---
 
-(c) 2026 Brock Frary - All rights reservered
+(c) 2026 Brock Frary. All rights reservered.
