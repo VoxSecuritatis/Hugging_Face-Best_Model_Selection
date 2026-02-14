@@ -226,4 +226,4 @@ Balance:
 
 ---
 
-(c) 2026 Brock Frary.  All Rights Reserved.
+(c) 2026 Brock Frary.  All rights reserved.
