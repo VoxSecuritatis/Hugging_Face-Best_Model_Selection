@@ -1,5 +1,5 @@
 # Hugging Face Model Selection Best Practices Guide
-Published:  2026-02-14
+Published: 2026-02-14 | Updated: 2026-02-15
 
 > A practical, engineering-first framework for selecting the right Hugging Face model for production use.
 
@@ -219,10 +219,6 @@ Balance:
 
 - YouTube - iNeuronix AI - "How to Select & Load the Best Hugging Face Model" (2025)
 - YouTube - BTECH Spark - "LLM Model Selection Guide" (2024)
-
----
-
-**If this guide is useful, consider starring your project and sharing improvements via PR.**
 
 ---
 
